@@ -4,7 +4,7 @@
  
 </h2>
 
-<img align="right" src="https://64.media.tumblr.com/4c1305b98830868fc843e080f8de986c/b762112e0ae6dd9b-f3/s640x960/778ce4b9eb986da34fff5cb393a25463a1db413b.gif](https://media.tenor.com/OxE-OUvzdocAAAAC/smile-naruto.gif" widht="300">
+<img align="right" src="https://media.tenor.com/OxE-OUvzdocAAAAC/smile-naruto.gif" widht="300">
 
 _Hi, this is ***Matheus Felipe***. An computer science student, programmer and enthusiast. I spend my free time working on side projects and learning new technologies around the internet. I'm currently learning ***Cybersecurity*** and ***Web Development***. You can reach me on my linkedIn._
 
