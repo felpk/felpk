@@ -1,5 +1,4 @@
 <h2 align="center">
-<h2 display="flex">
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Comfortaa'&color=%23268F77&size=30&center=true&vCenter=true&height=30&lines=Hello,+i'm+Felp+!;Welcome+to+my+profile+!)](https://git.io/typing-svg)
@@ -23,7 +22,8 @@ _Hi, this is ***Matheus Felipe***. An computer science student, programmer and e
 
 </p>
 
-
+<div align="center">
+ 
 <h2><i>Language and Tools</i></h2>
 </br>
  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" height="auto" width="60px">
@@ -31,3 +31,5 @@ _Hi, this is ***Matheus Felipe***. An computer science student, programmer and e
  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="auto" width="60px">
  <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" height="auto" width="60">
  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="auto" width="130">
+
+</div>
