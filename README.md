@@ -33,7 +33,11 @@ _Hi, this is ***Matheus Felipe***. An computer science student, programmer and e
  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="auto" width="60px">
  <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" height="auto" width="60">
  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="auto" width="130">
- <hr>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+ 
+ </br>
  <p> My favorite project -> https://felpk.github.io/rickandmortywiki/ </p>
 
 </div>
