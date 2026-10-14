@@ -14,7 +14,7 @@ Platform & AI infrastructure: LLM observability, evals, self-hosted stacks.
 
 ## Building now
 
-- **chat-agent-evals**: tracing, metrics and evals for conversational LLM agents *(work in progress)*
+- **chat-agent-evals**: tracing, metrics and evals for conversational LLM agents
 
 ## Stack
 
