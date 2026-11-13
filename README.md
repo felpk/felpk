@@ -8,8 +8,8 @@ Platform & AI infrastructure: I build, ship and run LLM agents in production on 
 
 ## Open source
 
-- **[cheap-eyes](https://github.com/felpk/cheap-eyes)**: Claude Code skill that catches visible web bugs as text, so screenshots never stay in the agent's context. Found 11 of 12 planted bugs against 7 for screenshots, with 35% fewer input tokens.
-- **[beautify-tmux](https://github.com/felpk/beautify-tmux)**: tmux config that colours each pane by what the Claude Code session inside it is doing: working, finished, or waiting for you.
+- **[cheap-eyes](https://github.com/felpk/cheap-eyes)**: Claude Code skill that catches visible web bugs as text, so screenshots never stay in the agent's context. Consistely find bugs for screenshots, with ~35% fewer input tokens.
+- **[beautify-tmux](https://github.com/felpk/beautify-tmux)**: It's a tmux config that colours each pane by what the Claude Code session inside it is doing: working, finished, or waiting for you, making it way easier to manage multiple panes work sessions.
 
 ## Experience
 
@@ -20,10 +20,12 @@ Platform & AI infrastructure: I build, ship and run LLM agents in production on 
 ## Building now
 
 - **chat-agent-evals**: tracing, metrics and evals for conversational LLM agents
-
+- **SaaS**: Building end-to-end products that leverage technical expertise to deliver exceptional customer experiences, solve business challenges, and drive revenue growth.
+  Projects in [avancesbr.com] and [matheus.avancesbr.com]
+  
 ## Stack
 
-Linux · Docker · PostgreSQL · TypeScript / Node.js · Python · Next.js
+Linux · AWS · Docker · Kubernets · Terraform · Python · GO · Github Actions ·  Pytorch · Langchain · DeepEval
 
 ## Contact
 
