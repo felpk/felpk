@@ -21,7 +21,7 @@ Platform & AI infrastructure: I build, ship and run LLM agents in production on 
 
 - **chat-agent-evals**: tracing, metrics and evals for conversational LLM agents
 - **SaaS**: Building end-to-end products that leverage technical expertise to deliver exceptional customer experiences, solve business challenges, and drive revenue growth.
-  Projects in [avancesbr.com] and [matheus.avancesbr.com]
+  Projects in **[AvancesBr](https://avancesbr.com)**
   
 ## Stack
 
