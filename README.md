@@ -8,7 +8,7 @@ Platform & AI infrastructure: I build, ship and run LLM agents in production on 
 
 ## Open source
 
-- **[visual-check-no-imagesheap-eyes](https://github.com/felpk/visual-check-no-images)**: Claude Code skill that catches visible web bugs as text, so screenshots never stay in the agent's context. Consistely find bugs for screenshots, with ~35% fewer input tokens.
+- **[visual-check-no-images](https://github.com/felpk/visual-check-no-images)**: Claude Code skill that catches visible web bugs as text, so screenshots never stay in the agent's context. Consistely find bugs for screenshots, with ~35% fewer input tokens.
 - **[beautify-tmux](https://github.com/felpk/beautify-tmux)**: It's a tmux config that colours each pane by what the Claude Code session inside it is doing: working, finished, or waiting for you, making it way easier to manage multiple panes work sessions.
 
 ## Experience
